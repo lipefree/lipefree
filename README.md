@@ -1,8 +1,8 @@
 # About me
 
-My main interest is researching machine learning, but here I’m just trying to enjoy coding in a world dominated by AI.
+My main interest is research in machine learning, but here I’m just trying to enjoy coding in a world dominated by AI.
 
-## Open-source contribution
+## Open-source contributions
 
 ### [mlx](https://github.com/ml-explore/mlx)
 
